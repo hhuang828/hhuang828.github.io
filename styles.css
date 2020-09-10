@@ -1,0 +1,18 @@
+BODY {
+  font-family : sans-serif ; 
+  width : 850 ;
+  background : #fcfefd ;
+}
+
+H1, H2, H3, H4, H5, H6 {
+  font-style : bold ;
+}
+
+H1 { font-size : 200% }
+
+A:link { color : #1090e0 }
+A:visited { color : #808080 }
+
+P { display : block }
+
+HR { size : 1px }
